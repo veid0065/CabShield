@@ -1,0 +1,6 @@
+{
+  "name": "CAB SHIELD",
+  "description": "Commercial fleet protection, safety telematics, and claims intelligence platform featuring the Hindustan Cabs 30-year legacy case study.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
